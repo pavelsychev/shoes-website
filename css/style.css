@@ -1494,7 +1494,7 @@ button {
   top: 0;
   left: 0;
   width: 1000px;
-  transform: translate(10%, 105%);
+  transform: translate(10%, 110%);
   fill: #ECCA7B;
   opacity: 0.4;
 }
@@ -1683,7 +1683,7 @@ button {
     grid-template-rows: 600px;
   }
   .main__logo {
-    transform: translate(0%, 70%);
+    transform: translate(0%, 80%);
   }
   .main__number {
     top: -150px;
