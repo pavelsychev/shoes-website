@@ -29,6 +29,7 @@
     line-height: 40px;
   }
   &__slider-image-content-text{
+    max-height: 270px;
     font-size: 16px;
   }
   &__link{
@@ -94,6 +95,9 @@
     &__slider-image-content{
       max-width: 530px;
       margin: 0 auto;
+    }
+    &__slider-image-content-text{
+      max-height: 130px;
     }
     &__slider-image-img:nth-child(2){
       margin: -150px 0 0 0;
@@ -270,6 +274,9 @@ margin-bottom: 30px;
     &__slider-image-content{
       max-width: 250px;
       justify-content: center;
+    }
+    &__slider-image-content-text{
+      max-height: 260px;
     }
     &__slider{
       justify-content: center;
